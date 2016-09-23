@@ -1,5 +1,5 @@
 {
-  "name": "bourbon-neat",
+  "name": "@collectivehealth/bourbon-neat",
   "version": "1.8.0",
   "description": "A lightweight, semantic grid framework",
   "keywords": [
@@ -27,7 +27,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thoughtbot/neat.git"
+    "url": "https://github.com/collectivehealth/neat.git"
   },
   "scripts": {
     "test": "echo \"No test specified\""
